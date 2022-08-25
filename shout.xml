@@ -10,8 +10,8 @@
  <ttl>1800</ttl>
 
  <item>
-  <title>Hellurei!</title>
-  <description>Tervetuloa kaikki fuksit!!</description>
+  <title>Hellurei! Tervetuloa kaikki fuksit!!</title>
+  <description>Terveisin ATK-toimari :D</description>
   <link>http://www.example.com/blog/post/1</link>
   <guid isPermaLink="false">7bd204c6-1655-4c27-aeee-53f933c5395f</guid>
   <pubDate>Sun, 06 Sep 2009 16:20:00 +0000</pubDate>
@@ -19,7 +19,7 @@
 
  <item>
   <title>Junttareihin aikaa reilu 7kk!</title>
-  <description></description>
+  <description>(╯°□°)╯︵ ┻━┻</description>
   <link>http://www.example.com/blog/post/1</link>
   <guid isPermaLink="false">7bd204c6-1655-4c27-aeee-53f933c5395f</guid>
   <pubDate>Sun, 06 Sep 2009 16:20:00 +0000</pubDate>
@@ -33,5 +33,32 @@
   <pubDate>Sun, 06 Sep 2009 16:20:00 +0000</pubDate>
  </item>
  
+ <item>
+  <title>Missä on mun avaimet?</title>
+  <description></description>
+  <link>http://www.example.com/blog/post/1</link>
+  <guid isPermaLink="false">7bd204c6-1655-4c27-aeee-53f933c5395f</guid>
+  <pubDate>Sun, 06 Sep 2009 16:20:00 +0000</pubDate>
+ </item>
+ 
+ <item>
+  <title>Demokratia oli virhe</title>
+  <description></description>
+  <link>http://www.example.com/blog/post/1</link>
+  <guid isPermaLink="false">7bd204c6-1655-4c27-aeee-53f933c5395f</guid>
+  <pubDate>Sun, 06 Sep 2009 16:20:00 +0000</pubDate>
+ </item>
+ 
+  <item>
+  <title>Säädetäänkö vähän? (vinkkaus)</title>
+  <description></description>
+  <link>http://www.example.com/blog/post/1</link>
+  <guid isPermaLink="false">7bd204c6-1655-4c27-aeee-53f933c5395f</guid>
+  <pubDate>Sun, 06 Sep 2009 16:20:00 +0000</pubDate>
+ </item>
+ 
+
+ 
 </channel>
 </rss>
+
