@@ -10,7 +10,7 @@
  <ttl>1800</ttl>
 
  <item>
-  <title>Hellurei! Tervetuloa kaikki fuksit!!</title>
+  <title>Hellurei!</title>
   <description>Terveisin ATK-toimari :D</description>
   <link>http://www.example.com/blog/post/1</link>
   <guid isPermaLink="false">7bd204c6-1655-4c27-aeee-53f933c5395f</guid>
@@ -18,7 +18,7 @@
  </item>
 
  <item>
-  <title>Junttareihin aikaa yli 1 viikko!</title>
+  <title>Junttareihin aikaa alle kuukausi!</title>
   <description>(╯°□°)╯︵ ┻━┻</description>
   <link>http://www.example.com/blog/post/1</link>
   <guid isPermaLink="false">7bd204c6-1655-4c27-aeee-53f933c5395f</guid>
@@ -42,7 +42,7 @@
  </item>
  
  <item>
-  <title>Demokratia oli virhe</title>
+  <title>Kirkkarit oli virhe</title>
   <description></description>
   <link>http://www.example.com/blog/post/1</link>
   <guid isPermaLink="false">7bd204c6-1655-4c27-aeee-53f933c5395f</guid>
@@ -83,6 +83,38 @@
  
  <item>
   <title>Ryyyyyyyyys</title>
+  <description></description>
+  <link>http://www.example.com/blog/post/1</link>
+  <guid isPermaLink="false">7bd204c6-1655-4c27-aeee-53f933c5395f</guid>
+  <pubDate>Sun, 06 Sep 2009 16:20:00 +0000</pubDate>
+ </item>
+
+ <item>
+  <title>Autekin jouluperheen varauskalenteri on nyt auki</title>
+  <description></description>
+  <link>http://www.example.com/blog/post/1</link>
+  <guid isPermaLink="false">7bd204c6-1655-4c27-aeee-53f933c5395f</guid>
+  <pubDate>Sun, 06 Sep 2009 16:20:00 +0000</pubDate>
+ </item>
+
+ <item>
+  <title>Ennen = Kunnollista, Nyt = Ei kunnollista</title>
+  <description></description>
+  <link>http://www.example.com/blog/post/1</link>
+  <guid isPermaLink="false">7bd204c6-1655-4c27-aeee-53f933c5395f</guid>
+  <pubDate>Sun, 06 Sep 2009 16:20:00 +0000</pubDate>
+ </item>
+
+ <item>
+  <title>Rip Kupari</title>
+  <description></description>
+  <link>http://www.example.com/blog/post/1</link>
+  <guid isPermaLink="false">7bd204c6-1655-4c27-aeee-53f933c5395f</guid>
+  <pubDate>Sun, 06 Sep 2009 16:20:00 +0000</pubDate>
+ </item>
+
+ <item>
+  <title>Roboryys</title>
   <description></description>
   <link>http://www.example.com/blog/post/1</link>
   <guid isPermaLink="false">7bd204c6-1655-4c27-aeee-53f933c5395f</guid>
